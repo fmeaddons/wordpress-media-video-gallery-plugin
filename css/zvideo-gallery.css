@@ -1,0 +1,14 @@
+.video-share {
+height: 22px;
+}
+
+.floatleft {float:left;}
+.floatright {float:right;}
+.video-container {}
+
+.video-container li
+{
+display: block-inline;
+list-style-type: none;
+padding-right: 20px;
+}
